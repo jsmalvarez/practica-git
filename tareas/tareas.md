@@ -1,4 +1,5 @@
 ## Tareas
 
-* trabajar 
-* estudiar
+* Trabajar 
+* Estudiar
+* Hacer los TP
