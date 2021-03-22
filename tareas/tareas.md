@@ -1,0 +1,4 @@
+## Tareas
+
+* trabajar 
+* estudiar
